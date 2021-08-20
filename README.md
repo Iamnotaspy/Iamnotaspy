@@ -42,6 +42,33 @@ I was the Audio director for this project and most of my other group projects an
 
 I also worked on: 
 How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bugfixing and many other tasks.
+___________________________________________________________________________________________________________________________________________________________________________________
+
+Research Project
+
+During the first semester of my final year I wrote a research paper titled 'Using adaptive music to enhance player feedback'
+
+It can read here: https://docs.google.com/document/d/1NCVmY5mxqr7AZgReaKdUtPQ2jKuuiTBqXFgQO23et_A/edit?usp=sharing
+
+This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I find captivating; Adaptive Music techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to choose the relevant specifics of my research and my current conclusions and findings and explain these technicalities to my lecturers and classmates.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+Android Project - Chaos in Space
+
+![ezgif-3-d5cbff5b83ad](https://user-images.githubusercontent.com/47995251/130181131-e57967c8-b31a-4256-af01-6c8b01218501.png)
+![ezgif-3-a5f4cd59ad5b](https://user-images.githubusercontent.com/47995251/130181138-da2ff62a-cf6c-426e-b741-4b9c37f38182.png)
+![ezgif-3-d8c0af8697f8](https://user-images.githubusercontent.com/47995251/130181142-1a16ea22-9977-4bde-a739-6d6e84625f57.png)
+![ezgif-3-2ded0a556543](https://user-images.githubusercontent.com/47995251/130181279-91f119d7-6830-4d7d-a1b1-da9b8bae836f.png)
+
+
+Link to game: https://play.google.com/store/apps/details?id=com.JacobGallagher.ChaosinSpace
+
+Source code, controls README, standalone APK are all available in my public Android Project git repository.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+Web
 
 <!--
 **Iamnotaspy/Iamnotaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
