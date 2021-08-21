@@ -65,10 +65,62 @@ Android Project - Chaos in Space
 Link to game: https://play.google.com/store/apps/details?id=com.JacobGallagher.ChaosinSpace
 
 Source code, controls README, standalone APK are all available in my public Android Project git repository.
+https://github.com/Iamnotaspy/AndroidProjectPublic
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Web
+Web Back End
+
+Link to project site: https://agile-refuge-11651.herokuapp.com/
+
+This project involved working with WEB back end using mongodb for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
+
+Technical list of content covered over project (for Back end component only as front end is listed in project below):
+  - Goorm/Nodejs/NPM/Local server/Express/Routes/EJS/GET request
+  - POST request/Show/Create/New/Authentication
+  - Local Database management using mongoDB/Update & Destroy
+  - Clean Up & User Notifications
+  - Deployment to hosted server (Heroku) and DB(mongoDB-Atlas)
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+Web Front End
+
+![FrontEndSudoku](https://user-images.githubusercontent.com/47995251/130336999-36ae4f05-3637-4abd-9d4a-13eecea43269.PNG)
+
+Many project that I have worked on at MDS involve something to do with Sudoku. I created a Sudoku solver in Swift and then again in Lua. This project involved creating a website where the user could play Sudoku. The majority of these front end technical skills were then later used and improved in my web back end project listed above.
+
+
+Technical skills learnt during project:
+  - HTML
+  - CSS Basics
+  - Basic Javascript & Bootstrap
+  - DOM & JQuery
+  - Advanced JS
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+DUUM
+
+![Level Layout](https://user-images.githubusercontent.com/47995251/130337180-94c65bc3-498e-487e-b9d6-9adf3ddd42de.PNG)
+![waypoint](https://user-images.githubusercontent.com/47995251/130337184-77c8bc9c-8c28-4903-9391-94f102d155d5.PNG)
+![OrbReducedRes](https://user-images.githubusercontent.com/47995251/130337186-c0cc3e26-d869-4718-8ae1-f6a786f0dd3e.gif)
+
+This second year group project was first a two week prototype that was then chosen as the starting point for mini production. It is a Doom style FPS where you face off against flying and walking monsters and attempt to destroy their spawner with a variety of weapons. Within the various rooms of the map you can build (using currency gained by defeating enemies) turrets, ammo crates and health crates to help you survive.
+
+During it's prototype stage this project was a 2.5d Doom style fps where you built the map from a top down perspective before you played.
+
+When we expanded it to mini production we decided to replace this map creation stage with real time buildings that you place from the regular first person perspective. This created a more enjoyable experience.
+
+Technical details:
+  - Developed in Untiy game engine using C#
+  - I worked on various tasks including lighting, audio, navigation, spawning behaviour, spawn health and bullet collisions, player health and death, camera to fix gun clipping issue, map design, building mechanics and testing/bug fixing.
+
+Project source/exe available on request.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+
 
 <!--
 **Iamnotaspy/Iamnotaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
