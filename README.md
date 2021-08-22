@@ -1,7 +1,4 @@
-**__NOTE!: This document is a WIP and still needs more projects added and reformatting before it is final.__**
-
-**Info about me:**
-    
+**Info about me:** 
   - My name is Jacob Gallagher and I am a 21 year old Software Engineer and Unity Game Developer with a Bachelor of Software Engineering (game programming) from Media Design School. 
 
 **Experience:**
@@ -173,34 +170,51 @@ This was a first year solo project where created a program that used a multi-thr
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-TEMP screenshot with description
-
 **OpenGL technical showcase projects**
 
-___________________________________________________________________________________________________________________________________________________________________________________
+![OpenGLSummative2](https://user-images.githubusercontent.com/47995251/130342090-1d8abc88-023b-48d9-9f3a-59773ffe014e.PNG)
 
-**Box2D**
+Various OpenGL C++ projects These ranged from 2D with basic textures and triangles/quads, to 3D with Blinn-Phong + Rim lighting, model importing, terrain generation, sky cubemap and rain particle systems(CPU).
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 **Lua**
 
-___________________________________________________________________________________________________________________________________________________________________________________
+![GravityShifter - Lua 1](https://user-images.githubusercontent.com/47995251/130342465-9893aacc-710d-44ed-bf8b-74169f08e9df.PNG)
+![GravityShifter - Lua 2](https://user-images.githubusercontent.com/47995251/130342468-a34c45b2-4ac4-4ec6-a6ba-c7261d6cc4c1.PNG)
 
-**Van Gogh**
+
+This solo second year game was coded in lua and used the luv2D framework.
+
+Project source code/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 **Flex Bros**
 
+![fbd55007-fda2-40b2-99bc-bf3bb98d39c7](https://user-images.githubusercontent.com/47995251/130342533-04940685-7ba8-4c3c-b16c-d81125a6ef35.png)
+
+Flex Bros was a first year group project game made in GameMaker.
+
+Project source code/exe available on request.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**DirectX12 technical showcase**
+
+![DirectX12Project](https://user-images.githubusercontent.com/47995251/130342013-3dcf63c7-7b78-4763-bb60-eae27028171f.PNG)
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Box2D**
+
+This was an implementation of Angry Birds using C++, openGL and Box2D physics.
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 **Solo Unreal Project**
 
-___________________________________________________________________________________________________________________________________________________________________________________
-
-TEMP add screenshot
-**DirectX12 technical showcase**
+During first year I created an endless runner game in Unreal using it's blueprint system.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -220,6 +234,9 @@ ________________________________________________________________________________
   - A turn based grid dungeon crawler with A star
   - A RPG with turn based combat and skill trees
   - A funnily janky multiplayer fighting game with controller support and the ability to create your fighter by selecting which body parts you wanted (e.g. frog legs, robot chest and Rhino horn)
+ 
+There was also one prototype game created in Unreal rather than Unity:
+ - An artsy typing game themed around the life of Van Gogh titled Van Gogh's Ear.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
