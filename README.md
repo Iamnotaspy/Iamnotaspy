@@ -1,27 +1,28 @@
-This document is a WIP and still needs more projects added and reformatting before it is final.
+**__NOTE!: This document is a WIP and still needs more projects added and reformatting before it is final.__**
 
-Info about me
-My name is Jacob Gallagher and I am a 21 year old Software Engineer and Unity Game Developer with a Bachelor of Software Engineering (game programming) from Media Design School. 
+**Info about me:**
+    
+  - My name is Jacob Gallagher and I am a 21 year old Software Engineer and Unity Game Developer with a Bachelor of Software Engineering (game programming) from Media Design School. 
 
-Experience
-I have 3 years experience developing many games and projects using c++, c# and Unity. I also have experience in Android, web dev (front end and back end), AI programming, multi-threading, networking, graphics (OpenGL and DirectX 12), physics, Unreal Engine and Gamemaker. I also have experience programming with Javascript, Lua and Swift.
+**Experience:**
+    
+  - I have 3 years experience developing many games and projects using C++, C# and Unity. I also have experience in Android, web dev (front end and back end), AI programming, multi-threading, networking, graphics (OpenGL and DirectX 12), physics, Unreal Engine and Gamemaker. I also have experience programming with Javascript, Lua and Swift.
 
-I have a passion for music and audio and took up the role of Audio Director for the majority of group projects/games that I worked on. I also wrote a research paper on the impact of Adaptive Music on player feedback.
+  - I have a passion for music and audio and took up the role of Audio Director for the majority of group projects/games that I worked on. I also wrote a research paper on the impact of Adaptive Music on player feedback.
 
-Email: jacob.gallagher.developer@gmail.com
+**Email: __jacob.gallagher.developer@gmail.com__**
 
-LinkedIn: https://www.linkedin.com/in/jacob-gallagher-2947521b7/
+[LinkedIn](https://www.linkedin.com/in/jacob-gallagher-2947521b7/)
 
 Below of a selection of the games and projects I worked on during my degree.
 
-SkyWhale
-Trailer:
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**SkyWhale**
 
 https://user-images.githubusercontent.com/47995251/129996312-c3721e02-7555-4ab4-9a07-07642a6374c4.mp4
 
-Link to Itch page: https://goon-squad.itch.io/sky-whale
-
-Screenshots:
+[Itch page](https://goon-squad.itch.io/sky-whale)
 
 ![lDFM4q](https://user-images.githubusercontent.com/47995251/129996524-ec143349-85a0-458d-a937-34cf8afc40dd.png)
 ![BeautyShot6991394resized](https://user-images.githubusercontent.com/47995251/130000668-270ab56e-ad3e-4fb0-8c44-ce49445a3824.png)
@@ -30,7 +31,6 @@ Screenshots:
 ![BeautyShot7973489resized](https://user-images.githubusercontent.com/47995251/130000698-2b7904c0-bb32-4fa4-8100-c10494167af6.png)
 ![BeautyShot7252052](https://user-images.githubusercontent.com/47995251/130000551-dedfd2ba-9598-48d8-a47b-509d3a784977.png)
 ![BeautyShot143236resized](https://user-images.githubusercontent.com/47995251/130000591-89bebb83-0b29-42e2-a132-0134c53898a3.png)
-
 
 SkyWhale is a third person exploration collectathon created with Unity game Engine. Fly through the air on your Sky Whale, glider or closely behind your grappling hook! Solve puzzles and interact with NPCs to progress the story and unlock new movement mechanics. Collect floating coins to unlock development art and info in the gallery while you enjoy the delicately crafted audio-visual experience.
 
@@ -41,20 +41,21 @@ It was an extremely informative process as we had to learn important communicati
 I was the Audio director for this project and most of my other group projects and one of my priorities was creating and expanding the audio manager (singleton) which integrated with Unity's audio system and enabled me to easily trigger needed audio functionality from wherever needed in other scripts. This enabled me to cleanly play sound effects with one line from the relevant script and the sound effects to have automatically (partially) randomised pitch and volume to prevent them from soudning to repetitive. 
 
 I also worked on: 
-How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bugfixing and many other tasks.
+  - How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bugfixing and many other tasks.
+
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Research Project
+**Research Project**
 
 During the first semester of my final year I wrote a research paper titled 'Using adaptive music to enhance player feedback'
 
-It can read here: https://docs.google.com/document/d/1NCVmY5mxqr7AZgReaKdUtPQ2jKuuiTBqXFgQO23et_A/edit?usp=sharing
+Read it [here](https://docs.google.com/document/d/1NCVmY5mxqr7AZgReaKdUtPQ2jKuuiTBqXFgQO23et_A/edit?usp=sharing)
 
 This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I find captivating; Adaptive Music techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to choose the relevant specifics of my research and my current conclusions and findings and explain these technicalities to my lecturers and classmates.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Android Project - Chaos in Space
+**Android Project - Chaos in Space**
 
 ![ezgif-3-d5cbff5b83ad](https://user-images.githubusercontent.com/47995251/130181131-e57967c8-b31a-4256-af01-6c8b01218501.png)
 ![ezgif-3-a5f4cd59ad5b](https://user-images.githubusercontent.com/47995251/130181138-da2ff62a-cf6c-426e-b741-4b9c37f38182.png)
@@ -62,16 +63,17 @@ Android Project - Chaos in Space
 ![ezgif-3-2ded0a556543](https://user-images.githubusercontent.com/47995251/130181279-91f119d7-6830-4d7d-a1b1-da9b8bae836f.png)
 
 
-Link to game: https://play.google.com/store/apps/details?id=com.JacobGallagher.ChaosinSpace
+[Link to game store page](https://play.google.com/store/apps/details?id=com.JacobGallagher.ChaosinSpace)
 
 Source code, controls README, standalone APK are all available in my public Android Project git repository.
-https://github.com/Iamnotaspy/AndroidProjectPublic
+
+[Git Repository](https://github.com/Iamnotaspy/AndroidProjectPublic)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Web Back End
+**Web Back End**
 
-Link to project site: https://agile-refuge-11651.herokuapp.com/
+[Project Site](https://agile-refuge-11651.herokuapp.com/)
 
 This project involved working with WEB back end using mongodb for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
 
@@ -84,12 +86,11 @@ Technical list of content covered over project (for Back end component only as f
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Web Front End
+**Web Front End**
 
 ![FrontEndSudoku](https://user-images.githubusercontent.com/47995251/130336999-36ae4f05-3637-4abd-9d4a-13eecea43269.PNG)
 
 Many project that I have worked on at MDS involve something to do with Sudoku. I created a Sudoku solver in Swift and then again in Lua. This project involved creating a website where the user could play Sudoku. The majority of these front end technical skills were then later used and improved in my web back end project listed above.
-
 
 Technical skills learnt during project:
   - HTML
@@ -100,7 +101,7 @@ Technical skills learnt during project:
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-DUUM
+**DUUM**
 
 ![Level Layout](https://user-images.githubusercontent.com/47995251/130337180-94c65bc3-498e-487e-b9d6-9adf3ddd42de.PNG)
 ![waypoint](https://user-images.githubusercontent.com/47995251/130337184-77c8bc9c-8c28-4903-9391-94f102d155d5.PNG)
@@ -120,14 +121,23 @@ Project source/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Wolf in Sheep Clothing  CONTINUE
+**Wolf in Sheep Clothing**
 
-Like above this was a group project prototype (this time for three weeks) turned into mini production. This is a turret defense game where you control the weather to protect sheep from encroaching wolves. As a prototype it was quite simple (similar to Plants Vs Zombies) as you placed down fences and different cloud storms to block, slow down and damage the oncoming wolves. After mini production this was revamped with more complicated paths, more wolves, free form placement of weather (more like spells as they now used mana instead of gold), gold was used to hire and place sheep mercenaries such as sheep wizards,
+https://user-images.githubusercontent.com/47995251/130339950-a2fc4f99-827d-4982-bf71-8ff79b13253b.mp4
 
+Like above this was a group project prototype (this time for three weeks) turned into mini production. This is a turret defense game where you control the weather to protect sheep from encroaching wolves. As a prototype it was quite simple (similar to Plants Vs Zombies) as you placed down fences and different cloud storms to block, slow down and damage the oncoming wolves. 
+
+After mini production this was revamped with more complicated paths, more wolves, free form placement of weather (more like spells as they now used mana instead of gold), gold was used to hire and place different types of sheep mercenaries which served more like turrets attacking wolves within a specific range. On top of this there was a season system which cast a whole screen version of the weather effects. The weahter effects would buff the sheep mercenaries (sun spell or summer would buff the melee sheep increasing their attack speed, damage and range of attack) as well as impacting the wolves (snow storm spell froze the wolves slowing them down).
+
+This game turned out very well and it would be a perfect game to port to mobile. 
+
+It was developed in Unity with a team of three programmers (including me) and 2 artists.
+
+Project source/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-SSS9000
+**SSS9000**
 
 https://user-images.githubusercontent.com/47995251/130337822-83b95548-8314-4d5b-8f44-54d322543f27.mp4
 
@@ -139,7 +149,7 @@ Project source/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-AI steering behaviours - BOIDS
+**AI steering behaviours - BOIDS**
 
 ![AI-SteeringBehaviours](https://user-images.githubusercontent.com/47995251/130337968-11390968-28f3-4f56-88c9-41bcb8ca76bd.PNG)
 
@@ -150,12 +160,88 @@ This was an incredibly satisfying project to work on as it had many moments wher
 
 Release exe and source code in steering behaviour git repo.
 
-Link to repo: https://github.com/Iamnotaspy/Steering-Behaviours
+[Git Repository](https://github.com/Iamnotaspy/Steering-Behaviours)
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-Multithreaded Mandlebrot Loader CONTINUE
+**Multithreaded Mandlebrot Loader**
 
+![MultiThreadedMandlebrotPart1](https://user-images.githubusercontent.com/47995251/130340726-bb92286b-f236-41c1-a1ab-70e01601bb26.PNG)
+![mandlebrot](https://user-images.githubusercontent.com/47995251/130340727-8a8ee256-94fb-4e33-86b1-94ca069d3953.jpg)
+
+This was a first year solo project where created a program that used a multi-threaded approach to calculate and output the Mandlebrot set to a external ppm file displaying the time taken.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+TEMP screenshot with description
+
+**OpenGL technical showcase projects**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Box2D**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Lua**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Van Gogh**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Flex Bros**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Solo Unreal Project**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+TEMP add screenshot
+**DirectX12 technical showcase**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Networking**
+
+This was a first year project where I worked with networking and UDP to create a rudimentary networked text based chat program.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Sudoku Solver in Swift and then again in Lua**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Rapid Game Prototypes**
+
+2 Week Unity Projects. On top of the Wolf in Sheep Clothing and Duum games mentioned above I also worked on:
+  - A turn based grid dungeon crawler with A star
+  - A RPG with turn based combat and skill trees
+  - A funnily janky multiplayer fighting game with controller support and the ability to create your fighter by selecting which body parts you wanted (e.g. frog legs, robot chest and Rhino horn)
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Text based Battleships in C++**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Tic Tac Toe AI with mini max in C++**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Genetic algorithm in C++**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**A star path finding in C++**
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+**Space Invaders using Windows GDI and C++**
+
+___________________________________________________________________________________________________________________________________________________________________________________
 
 <!--
 **Iamnotaspy/Iamnotaspy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
