@@ -120,6 +120,41 @@ Project source/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
+Wolf in Sheep Clothing  CONTINUE
+
+Like above this was a group project prototype (this time for three weeks) turned into mini production. This is a turret defense game where you control the weather to protect sheep from encroaching wolves. As a prototype it was quite simple (similar to Plants Vs Zombies) as you placed down fences and different cloud storms to block, slow down and damage the oncoming wolves. After mini production this was revamped with more complicated paths, more wolves, free form placement of weather (more like spells as they now used mana instead of gold), gold was used to hire and place sheep mercenaries such as sheep wizards,
+
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+SSS9000
+
+https://user-images.githubusercontent.com/47995251/130337822-83b95548-8314-4d5b-8f44-54d322543f27.mp4
+
+This was an early second year group project with the focus on utilizing agile/scrum principles. I developed the project with C++ and openGL along with two other programmers. The game is a multiplayer arena brawler where the goal is to push your opponent off the stage to gain a star (three starts to win). The game used controllers and had randomly falling weapons that altered your range distance and angle of attack which you could pick up.
+
+Due to sickness of another team member and the fact that I was the only one who had two controllers to test with, I took up extra responsibility by picking up tasks and leading more in the development process. I also had to test more often to ensure there were no bugs or issues. This was an extremely enjoyable project to work on, even if the art for the game doesn't look the best. I learnt a lot about project management, time management and agile/scrum and came to enjoy each of these things during this project.
+
+Project source/exe available on request.
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+AI steering behaviours - BOIDS
+
+![AI-SteeringBehaviours](https://user-images.githubusercontent.com/47995251/130337968-11390968-28f3-4f56-88c9-41bcb8ca76bd.PNG)
+
+Second year solo project using C++ and openGL as a framework for creating AI steering behaviours such as:
+  - Seek, Flee, Arrive, Containment(bounce off window edge), Wall Following, Flocking, WrapAround and Leader Following
+
+This was an incredibly satisfying project to work on as it had many moments where eveything just worked and the results were visual and fun.
+
+Release exe and source code in steering behaviour git repo.
+
+Link to repo: https://github.com/Iamnotaspy/Steering-Behaviours
+
+___________________________________________________________________________________________________________________________________________________________________________________
+
+Multithreaded Mandlebrot Loader CONTINUE
 
 
 <!--
