@@ -29,7 +29,7 @@ https://user-images.githubusercontent.com/47995251/129996312-c3721e02-7555-4ab4-
 ![BeautyShot7252052](https://user-images.githubusercontent.com/47995251/130000551-dedfd2ba-9598-48d8-a47b-509d3a784977.png)
 ![BeautyShot143236resized](https://user-images.githubusercontent.com/47995251/130000591-89bebb83-0b29-42e2-a132-0134c53898a3.png)
 
-SkyWhale is a third person exploration collectathon created with Unity game Engine. Fly through the air on your Sky Whale, glider or closely behind your grappling hook! Solve puzzles and interact with NPCs to progress the story and unlock new movement mechanics. Collect floating coins to unlock development art and info in the gallery while you enjoy the delicately crafted audio-visual experience.
+SkyWhale is a third person exploration collectathon created with Unity Game Engine. Fly through the air on your Sky Whale, glider or closely behind your grappling hook! Solve puzzles and interact with NPCs to progress the story and unlock new movement mechanics. Collect floating coins to unlock development art and info in the gallery while you enjoy the delicately crafted audio-visual experience.
 
 SkyWhale is GoonSquad's final year production game at Media Design School. 
 
@@ -38,7 +38,7 @@ It was an extremely informative process as we had to learn important communicati
 I was the Audio director for this project and most of my other group projects and one of my priorities was creating and expanding the audio manager (singleton) which integrated with Unity's audio system and enabled me to easily trigger needed audio functionality from wherever needed in other scripts. This enabled me to cleanly play sound effects with one line from the relevant script and the sound effects to have automatically (partially) randomised pitch and volume to prevent them from soudning to repetitive. 
 
 I also worked on: 
-  - How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bugfixing and many other tasks.
+  - How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bug fixing and many other tasks.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -48,7 +48,7 @@ During the first semester of my final year I wrote a research paper titled 'Usin
 
 Read it [here](https://docs.google.com/document/d/1NCVmY5mxqr7AZgReaKdUtPQ2jKuuiTBqXFgQO23et_A/edit?usp=sharing)
 
-This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I find captivating; Adaptive Music techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to choose the relevant specifics of my research and my current conclusions and findings and explain these technicalities to my lecturers and classmates.
+This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I am particularly enthusiastic about: Adaptive Music techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to choose the relevant specifics of my research and my current conclusions and findings and explain these technicalities to my lecturers and classmates.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -72,7 +72,7 @@ ________________________________________________________________________________
 
 [Project Site](https://agile-refuge-11651.herokuapp.com/)
 
-This project involved working with WEB back end using mongodb for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
+This project involved working with WEB back end using mongoDB for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
 
 Technical list of content covered over project (for Back end component only as front end is listed in project below):
   - Goorm/Nodejs/NPM/Local server/Express/Routes/EJS/GET request
@@ -87,7 +87,7 @@ ________________________________________________________________________________
 
 ![FrontEndSudoku](https://user-images.githubusercontent.com/47995251/130336999-36ae4f05-3637-4abd-9d4a-13eecea43269.PNG)
 
-Many project that I have worked on at MDS involve something to do with Sudoku. I created a Sudoku solver in Swift and then again in Lua. This project involved creating a website where the user could play Sudoku. The majority of these front end technical skills were then later used and improved in my web back end project listed above.
+At MDS I have made many Sudoku or Sudoku related projects. I created a Sudoku solver in Swift and then again in Lua. This project involved creating a website where the user could play Sudoku. The majority of these front end technical skills were then later used and improved in my web back end project listed above.
 
 Technical skills learnt during project:
   - HTML
@@ -106,25 +106,25 @@ ________________________________________________________________________________
 
 This second year group project was first a two week prototype that was then chosen as the starting point for mini production. It is a Doom style FPS where you face off against flying and walking monsters and attempt to destroy their spawner with a variety of weapons. Within the various rooms of the map you can build (using currency gained by defeating enemies) turrets, ammo crates and health crates to help you survive.
 
-During it's prototype stage this project was a 2.5d Doom style fps where you built the map from a top down perspective before you played.
+During its prototype stage this project was a 2.5d Doom style fps where you built the map from a top down perspective before you played.
 
 When we expanded it to mini production we decided to replace this map creation stage with real time buildings that you place from the regular first person perspective. This created a more enjoyable experience.
 
 Technical details:
-  - Developed in Untiy game engine using C#
+  - Developed in Unity Game Engine using C#
   - I worked on various tasks including lighting, audio, navigation, spawning behaviour, spawn health and bullet collisions, player health and death, camera to fix gun clipping issue, map design, building mechanics and testing/bug fixing.
 
 Project source/exe available on request.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-**Wolf in Sheep Clothing**
+**Wolf in Sheep's Clothing**
 
 https://user-images.githubusercontent.com/47995251/130339950-a2fc4f99-827d-4982-bf71-8ff79b13253b.mp4
 
-Like above this was a group project prototype (this time for three weeks) turned into mini production. This is a turret defense game where you control the weather to protect sheep from encroaching wolves. As a prototype it was quite simple (similar to Plants Vs Zombies) as you placed down fences and different cloud storms to block, slow down and damage the oncoming wolves. 
+This was a group project prototype (this time for three weeks) turned into mini production. This is a turret defense game where you control the weather to protect sheep from encroaching wolves. As a prototype it was quite simple (similar to Plants Vs Zombies) as you placed down fences and different cloud storms to block, slow down and damage the oncoming wolves. 
 
-After mini production this was revamped with more complicated paths, more wolves, free form placement of weather (more like spells as they now used mana instead of gold), gold was used to hire and place different types of sheep mercenaries which served more like turrets attacking wolves within a specific range. On top of this there was a season system which cast a whole screen version of the weather effects. The weahter effects would buff the sheep mercenaries (sun spell or summer would buff the melee sheep increasing their attack speed, damage and range of attack) as well as impacting the wolves (snow storm spell froze the wolves slowing them down).
+After mini production this was revamped with more complicated paths, more wolves, free form placement of weather (more like spells as they now used mana instead of gold), gold was used to hire and place different types of sheep mercenaries which served more like turrets attacking wolves within a specific range. On top of this there was a season system which cast a whole screen version of the weather effects. The weather effects would buff the sheep mercenaries (sun spell or summer would buff the melee sheep increasing their attack speed, damage and range of attack) as well as impacting the wolves (snow storm spell froze the wolves slowing them down).
 
 This game turned out very well and it would be a perfect game to port to mobile. 
 
@@ -140,7 +140,7 @@ https://user-images.githubusercontent.com/47995251/130337822-83b95548-8314-4d5b-
 
 This was an early second year group project with the focus on utilizing agile/scrum principles. I developed the project with C++ and openGL along with two other programmers. The game is a multiplayer arena brawler where the goal is to push your opponent off the stage to gain a star (three starts to win). The game used controllers and had randomly falling weapons that altered your range distance and angle of attack which you could pick up.
 
-Due to sickness of another team member and the fact that I was the only one who had two controllers to test with, I took up extra responsibility by picking up tasks and leading more in the development process. I also had to test more often to ensure there were no bugs or issues. This was an extremely enjoyable project to work on, even if the art for the game doesn't look the best. I learnt a lot about project management, time management and agile/scrum and came to enjoy each of these things during this project.
+Due to sickness of another team member and the fact that I was the only one who had two controllers to test with, I took up extra responsibility by picking up tasks and leading more in the development process. I also had to test more often to ensure there were no bugs or issues. Despite the art not looking the best, everything worked well and this was an extremely enjoyable project to work on. I learnt a lot about project management, time management and agile/scrum and came to enjoy each of these things during this project.
 
 Project source/exe available on request.
 
@@ -153,7 +153,7 @@ ________________________________________________________________________________
 Second year solo project using C++ and openGL as a framework for creating AI steering behaviours such as:
   - Seek, Flee, Arrive, Containment(bounce off window edge), Wall Following, Flocking, WrapAround and Leader Following
 
-This was an incredibly satisfying project to work on as it had many moments where eveything just worked and the results were visual and fun.
+This was an incredibly satisfying project to work on as it had many moments where everything just worked and the results were visual and fun.
 
 Release exe and source code in steering behaviour git repo.
 
@@ -161,12 +161,12 @@ Release exe and source code in steering behaviour git repo.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-**Multithreaded Mandlebrot Loader**
+**Multithreaded Mandelbrot Loader**
 
-![MultiThreadedMandlebrotPart1](https://user-images.githubusercontent.com/47995251/130340726-bb92286b-f236-41c1-a1ab-70e01601bb26.PNG)
-![mandlebrot](https://user-images.githubusercontent.com/47995251/130340727-8a8ee256-94fb-4e33-86b1-94ca069d3953.jpg)
+![MultiThreadedMandelbrotPart1](https://user-images.githubusercontent.com/47995251/130340726-bb92286b-f236-41c1-a1ab-70e01601bb26.PNG)
+![mandelbrot](https://user-images.githubusercontent.com/47995251/130340727-8a8ee256-94fb-4e33-86b1-94ca069d3953.jpg)
 
-This was a first year solo project where created a program that used a multi-threaded approach to calculate and output the Mandlebrot set to a external ppm file displaying the time taken.
+This was a first year solo project where created a program that used a multi-threaded approach to calculate and output the Mandelbrot set to an external ppm file displaying the time taken.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -214,7 +214,7 @@ ________________________________________________________________________________
 
 **Solo Unreal Project**
 
-During first year I created an endless runner game in Unreal using it's blueprint system.
+During my first year at MDS I created an endless runner game in Unreal using it's blueprint system.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -230,7 +230,7 @@ ________________________________________________________________________________
 
 **Rapid Game Prototypes**
 
-2 Week Unity Projects. On top of the Wolf in Sheep Clothing and Duum games mentioned above I also worked on:
+2 Week Unity Projects. On top of the Wolf in Sheep's Clothing and Duum games mentioned above I also worked on:
   - A turn based grid dungeon crawler with A star
   - A RPG with turn based combat and skill trees
   - A funnily janky multiplayer fighting game with controller support and the ability to create your fighter by selecting which body parts you wanted (e.g. frog legs, robot chest and Rhino horn)
