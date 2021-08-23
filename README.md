@@ -1,9 +1,10 @@
-**Info about me:** 
-  - My name is Jacob Gallagher and I am a 21 year old Software Engineer and Unity Game Developer with a Bachelor of Software Engineering (game programming) from Media Design School. 
+**Jacob Gallagher's Portfolio** 
+
+My name is Jacob Gallagher and I am a 21 year old Software Engineer and Unity Game Developer with a Bachelor of Software Engineering (game programming) from Media Design School. 
 
 **Experience:**
     
-  - I have 3 years experience developing many games and projects using C++, C# and Unity. I also have experience in Android, web dev (front end and back end), AI programming, multi-threading, networking, graphics (OpenGL and DirectX 12), physics, Unreal Engine and Gamemaker. I also have experience programming with Javascript, Lua and Swift.
+  - I have 3 years experience developing many games and projects using C++, C# and Unity. I also have experience in Android, web development (front end and back end), AI programming, multi-threading, networking, graphics (OpenGL and DirectX 12), physics, Unreal Engine and Gamemaker. Additionally I have programming experience with Javascript, Lua and Swift.
 
   - I have a passion for music and audio and took up the role of Audio Director for the majority of group projects/games that I worked on. I also wrote a research paper on the impact of Adaptive Music on player feedback.
 
@@ -11,7 +12,7 @@
 
 [LinkedIn](https://www.linkedin.com/in/jacob-gallagher-2947521b7/)
 
-Below of a selection of the games and projects I worked on during my degree.
+Below is a selection of the games and projects I worked on during my degree.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -35,10 +36,21 @@ SkyWhale is GoonSquad's final year production game at Media Design School.
 
 It was an extremely informative process as we had to learn important communication and rescoping skills due to team members joining/leaving at different stages. During development a lack of artists required us programmers to focus on design work and pick up a few art related tasks on top of our programming, systems integration and bug-fixing work. 
 
-I was the Audio director for this project and most of my other group projects and one of my priorities was creating and expanding the audio manager (singleton) which integrated with Unity's audio system and enabled me to easily trigger needed audio functionality from wherever needed in other scripts. This enabled me to cleanly play sound effects with one line from the relevant script and the sound effects to have automatically (partially) randomised pitch and volume to prevent them from soudning to repetitive. 
+I was the audio director for this project. One of my priorities was creating and expanding the audio manager (singleton) which integrated with Unity's audio system, enabling me to easily trigger applicable audio functionality from wherever needed in other scripts. This enabled me to cleanly play sound effects with one line from the relevant script and automatically apply (partially) randomised pitch and volume to prevent them from sounding to repetitive. 
 
 I also worked on: 
-  - How sounds would adapt to to the game state, helped work on all the movement mechanics, a tile puzzle generator and tile puzzle system for the second island, the checkpoint system, designing the islands, setting up some of the quests, the jellyfish grapple points, movement behaviour of islands that trail behind the whale, debug tools, bug fixing and many other tasks.
+  - How sounds would adapt to to the game state
+  - Joint group work on all the movement mechanics
+  - A tile puzzle generator
+  - Tile puzzle mechanics/scripts
+  - Checkpoint system
+  - Designing the islands
+  - Setting up some of the quests
+  - The jellyfish grapple points
+  - Movement behaviour of the islands that trail behind the whale
+  - Debug tools
+  - Bug fixing
+  - and many other tasks.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -46,9 +58,9 @@ ________________________________________________________________________________
 
 During the first semester of my final year I wrote a research paper titled 'Using adaptive music to enhance player feedback'
 
-Read it [here](https://docs.google.com/document/d/1NCVmY5mxqr7AZgReaKdUtPQ2jKuuiTBqXFgQO23et_A/edit?usp=sharing)
+Read it [here](https://github.com/Iamnotaspy/Iamnotaspy/files/7028466/Apative.music.techniques.pdf)
 
-This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I am particularly enthusiastic about: Adaptive Music techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to choose the relevant specifics of my research and my current conclusions and findings and explain these technicalities to my lecturers and classmates.
+This paper was very interesting to write as I had to delve into the technicalities of two aspects of game development that I am particularly enthusiastic about: Adaptive Music Techniques and Player Feedback. Throughout the project I gave multiple presentations where I had to refine the relevant specifics of my research, as well as my current conclusions and findings, to explain these technicalities to my lecturers and classmates.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -72,9 +84,9 @@ ________________________________________________________________________________
 
 [Project Site](https://agile-refuge-11651.herokuapp.com/)
 
-This project involved working with WEB back end using mongoDB for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
+This project involved working with web back end development using mongoDB for the database for a car listing website (hosted on Heroku). I implemented a user database storing usernames and passwords as well as a car listings database that was tied to the user who posted it and could be edited/removed by that user. I also implemented user registration, basic home page, car listing page, create listing page, edit listing page, header with page title and relevant user buttons (register, login, logout and username when logged in).
 
-Technical list of content covered over project (for Back end component only as front end is listed in project below):
+Technical list of content covered over project (for back end component only as front end is listed in project below):
   - Goorm/Nodejs/NPM/Local server/Express/Routes/EJS/GET request
   - POST request/Show/Create/New/Authentication
   - Local Database management using mongoDB/Update & Destroy
@@ -151,11 +163,11 @@ ________________________________________________________________________________
 ![AI-SteeringBehaviours](https://user-images.githubusercontent.com/47995251/130337968-11390968-28f3-4f56-88c9-41bcb8ca76bd.PNG)
 
 Second year solo project using C++ and openGL as a framework for creating AI steering behaviours such as:
-  - Seek, Flee, Arrive, Containment(bounce off window edge), Wall Following, Flocking, WrapAround and Leader Following
+  - Seek, Flee, Arrive, Containment (bounce off window edge), Wall Following, Flocking, WrapAround and Leader Following
 
 This was an incredibly satisfying project to work on as it had many moments where everything just worked and the results were visual and fun.
 
-Release exe and source code in steering behaviour git repo.
+Release exe and source code in my steering behaviour git repository.
 
 [Git Repository](https://github.com/Iamnotaspy/Steering-Behaviours)
 
@@ -174,7 +186,7 @@ ________________________________________________________________________________
 
 ![OpenGLSummative2](https://user-images.githubusercontent.com/47995251/130342090-1d8abc88-023b-48d9-9f3a-59773ffe014e.PNG)
 
-Various OpenGL C++ projects These ranged from 2D with basic textures and triangles/quads, to 3D with Blinn-Phong + Rim lighting, model importing, terrain generation, sky cubemap and rain particle systems(CPU).
+Various OpenGL C++ projects. These ranged from 2D with basic textures and triangles/quads, to 3D with Blinn-Phong + Rim lighting, model importing, terrain generation, sky cubemap and rain particle systems(CPU).
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
@@ -184,7 +196,7 @@ ________________________________________________________________________________
 ![GravityShifter - Lua 2](https://user-images.githubusercontent.com/47995251/130342468-a34c45b2-4ac4-4ec6-a6ba-c7261d6cc4c1.PNG)
 
 
-This solo second year game was coded in lua and used the luv2D framework.
+This solo second year game was coded in Lua and used the Love2D framework.
 
 Project source code/exe available on request.
 
@@ -214,7 +226,7 @@ ________________________________________________________________________________
 
 **Solo Unreal Project**
 
-During my first year at MDS I created an endless runner game in Unreal using it's blueprint system.
+During my first year at MDS I created an endless runner game in Unreal using its blueprint system.
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
